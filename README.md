@@ -1,5 +1,7 @@
 # VBA-challenge
-MK GT VBA Homework Repo
+Create a script using Visual Basic to analyze a database of 4,000 past projects to provide analytical information and uncover any hidden trends within the data.
+
+
 Text version of code:
 
 Sub homework()
