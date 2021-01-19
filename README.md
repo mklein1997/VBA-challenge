@@ -1,5 +1,5 @@
 # VBA-challenge
-Create a script using Visual Basic to analyze a database of 4,000 past projects to provide analytical information and uncover any hidden trends within the data.
+Create a script using Visual Basic to analyze a database of stock ticker information to provide analytical information and uncover any hidden trends within the data.
 
 
 Text version of code:
